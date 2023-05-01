@@ -6,7 +6,7 @@ dev log can be viewed here: [https://docs.google.com/document/d/1lnxqteBILpWt0T3
 
 
 Conceptual Protoype:
-prototype can be viewed here: [link](link)
+prototype can be viewed here: [https://wolflegend523.github.io/CSS385_GameDocuments/WebGLBuild/](https://wolflegend523.github.io/CSS385_GameDocuments/WebGLBuild/)
 
 
 
