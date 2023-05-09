@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: false
-permalink: /documentation
+permalink: /documentation/
 ---
 
 <h3> dev log: </h3>
