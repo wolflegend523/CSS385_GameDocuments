@@ -27,6 +27,6 @@ permalink: /documentation/
 <h3> Source code: </h3>
 <p> 
   Source code can be viewed here: 
-  <a href="[https://github.com/mykytaskiba/CSS385GameProject">
+  <a href="https://github.com/mykytaskiba/CSS385GameProject">
     https://github.com/mykytaskiba/CSS385GameProject </a>
 </p>
