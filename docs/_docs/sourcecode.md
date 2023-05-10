@@ -6,3 +6,4 @@ sidebar:
   nav: "docs"
 ---
 
+Source code can be viewed here: [https://github.com/mykytaskiba/CSS385GameProject](https://github.com/mykytaskiba/CSS385GameProject)
