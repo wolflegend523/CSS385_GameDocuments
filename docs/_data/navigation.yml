@@ -3,5 +3,22 @@ main:
   - title: "Home"
     url: https://wolflegend523.github.io/CSS385_GameDocuments/
   - title: "Documentation"
-    url: https://wolflegend523.github.io/CSS385_GameDocuments/documentation/
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/devlog/
+    
+# docs links
+docs:
+  - title: "Development Log"
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/devlog/
+  - title: "Playtest Reports"
+    children: 
+      - title: "Alpha Playtests"
+      - url: https://wolflegend523.github.io/CSS385_GameDocuments/alphatests/
+  - title: "Game Presentation"
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/gamepres/
+  - title: "Postmortem Presentation"
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/postmortem/
+  - title: "Team Reflection"
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/reflection/
+  - title: "Source code"
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/sourcecode/
 
