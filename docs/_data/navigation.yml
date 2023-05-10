@@ -2,6 +2,8 @@
 main:
   - title: "Home"
     url: https://wolflegend523.github.io/CSS385_GameDocuments/
+  - title: "The Game"
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/
   - title: "Documentation"
     url: https://wolflegend523.github.io/CSS385_GameDocuments/devlog/
     
@@ -21,4 +23,6 @@ docs:
     url: https://wolflegend523.github.io/CSS385_GameDocuments/reflection/
   - title: "Source code"
     url: https://wolflegend523.github.io/CSS385_GameDocuments/sourcecode/
+  - title: "References"
+    url: https://wolflegend523.github.io/CSS385_GameDocuments/references/
 
