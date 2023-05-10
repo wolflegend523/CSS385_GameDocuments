@@ -27,7 +27,7 @@ permalink: /
 
 <h3> References: </h3>
 
-our full list of references can be viewed [https://wolflegend523.github.io/CSS385_GameDocuments/references/](here) 
+our full list of references can be viewed [here](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
 
 
 
