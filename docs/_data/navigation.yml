@@ -12,7 +12,7 @@ docs:
   - title: "Playtest Reports"
     children: 
       - title: "Alpha Playtests"
-      - url: https://wolflegend523.github.io/CSS385_GameDocuments/alphatests/
+        url: https://wolflegend523.github.io/CSS385_GameDocuments/alphatests/
   - title: "Game Presentation"
     url: https://wolflegend523.github.io/CSS385_GameDocuments/gamepres/
   - title: "Postmortem Presentation"
