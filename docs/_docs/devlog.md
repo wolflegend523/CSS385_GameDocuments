@@ -6,4 +6,3 @@ sidebar:
   nav: "docs"
 ---
 
-# Dev Log
