@@ -30,3 +30,8 @@ feature_Sydnee:
 {% include feature_row id="feature_Cordelia" type="left" %}
 
 {% include feature_row id="feature_Sydnee" type="right" %}
+
+
+## References
+
+our full list of references can be viewed [here](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
