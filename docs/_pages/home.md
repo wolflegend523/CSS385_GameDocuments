@@ -1,39 +1,49 @@
 ---
 layout: splash
 author_profile: false
+title: "[Our Game]"
 permalink: /
+excerpt: "placeholder for cool text at the top of the website"
 header:
-  image: /assets/images/placeholderImage1.jpg
-  
+  overlay_image: /assets/images/placeholderImage7.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "Play Game"
+      url: "https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/"
+gallery:
+  - url: /assets/images/placeholderImage1.jpg
+    image_path: /assets/images/placeholderImage1.jpg
+    title: "Image 1 title"
+  - url: /assets/images/placeholderImage2.jpg
+    image_path: /assets/images/placeholderImage2.jpg
+    title: "Image 2 title"
+  - url: /assets/images/placeholderImage3.jpg
+    image_path: /assets/images/placeholderImage3.jpg
+    title: "Image 3 title"
+  - url: /assets/images/placeholderImage4.jpg
+    image_path: /assets/images/placeholderImage4.jpg
+    title: "Image 4 title"
+  - url: /assets/images/placeholderImage5.jpg
+    image_path: /assets/images/placeholderImage5.jpg
+    title: "Image 5 title"
+  - url: /assets/images/placeholderImage6.jpg
+    image_path: /assets/images/placeholderImage6.jpg
+    title: "Image 6 title"
 ---
 
-<h3> description: </h3>
+## Description
 
 
-<h3> Screenshots: </h3>
-
-
-<h3> Trailer: </h3>
+## Trailer 
 (this is just a placeholder)
 
 {% include video id="YeJH9QpOf4s" provider="youtube" %}
 
 
+## Credits
 
 
-<h3> Game Protoype: </h3>
-<p> 
-  prototype can be viewed here: 
-  <a href="https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/">
-    https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/ </a>
-</p>
-
-
-
-<h3> Credits: </h3>
-
-
-<h3> References: </h3>
+## References
 
 our full list of references can be viewed [here](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
 
