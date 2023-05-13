@@ -13,4 +13,4 @@ sidebar:
 </object>
 
 
-to veiw the most recent updates dev log can be viewed [here](https://docs.google.com/document/d/1lnxqteBILpWt0T3U9DIfvp2LdbbCuv8jhcdtC38nAQ4/edit?usp=sharing)
+The most recent updates to the dev log can be viewed [here.](https://docs.google.com/document/d/1tqlCvjn4cMqSJtZB8Uq6p8Wg30MWcqBuBBNSkL1oBf8/edit?usp=sharing)
