@@ -7,10 +7,10 @@ sidebar:
 ---
 
 
-## One Thing Our team did really well
+## One Thing Our Team Did Really Well
 
 
-## Evidence we can show for it
+## Evidence We Can Show For It
 
 
 ## If We Had Another 2 Weeks
