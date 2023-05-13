@@ -11,8 +11,10 @@ permalink: /
 
 
 <h3> Trailer: </h3>
-(this is jsut a placeholder
-<iframe width="640" height="360" src="https://www.youtube.com/watch?v=YeJH9QpOf4s" frameborder="0" allowfullscreen></iframe>
+(this is just a placeholder)
+
+{% include video id="YeJH9QpOf4s" provider="youtube" %}
+
 
 
 
