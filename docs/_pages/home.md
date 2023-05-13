@@ -29,6 +29,25 @@ gallery:
   - url: /assets/images/placeholderImage6.jpg
     image_path: /assets/images/placeholderImage6.jpg
     title: "Image 6 title"
+feature_row:
+  - image_path: /assets/images/placeholderImage8.jpg
+    title: "Alpha Version"
+    excerpt: "This is the alpha version of the game."
+    url: "https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/"
+    btn_label: "Play Now"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/placeholderImage9.jpg
+    title: "Beta Version"
+    excerpt: "This is the beta version of the game."
+    url: "https://wolflegend523.github.io/CSS385_GameDocuments/BetaBuild/"
+    btn_label: "Play Now"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/placeholderImage10.jpg
+    title: "Final Version"
+    excerpt: "This is the final version of the game."
+    url: "https://wolflegend523.github.io/CSS385_GameDocuments/FinalBuild/"
+    btn_label: "Play Now"
+    btn_class: "btn--inverse"
 ---
 
 ## Description
@@ -36,12 +55,15 @@ gallery:
 
 ## Trailer 
 (this is just a placeholder)
-
 {% include video id="YeJH9QpOf4s" provider="youtube" %}
 
 
 ## Screenshots
 {% include gallery caption="gallery caption" %}
+
+## Game Versions
+{% include feature_row %}
+
 
 
 
