@@ -29,6 +29,19 @@ gallery:
   - url: /assets/images/placeholderImage6.jpg
     image_path: /assets/images/placeholderImage6.jpg
     title: "Image 6 title"
+feature_row:
+  - image_path: /assets/images/MykytaCat.jpg
+    title: "Mykyta"
+    excerpt: "What Mykyta worked on."
+  - image_path: /assets/images/SkylaCat.jpg
+    title: "Skyla"
+    excerpt: "What Skyla worked on.""
+  - image_path: /assets/images/CordeliaCat.jpg
+    title: "Cordelia"
+    excerpt: "What Cordelia worked on."
+  - image_path: /assets/images/SydneeCat.jpg
+    title: "Sydnee"
+    excerpt: "What Sydnee worked on."
 ---
 
 ## Description
@@ -41,7 +54,7 @@ gallery:
 
 
 ## Credits
-
+{% include feature_row %}
 
 ## References
 
