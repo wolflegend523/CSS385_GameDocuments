@@ -31,23 +31,19 @@ gallery:
     title: "Image 6 title"
 ---
 
-# Description
+## Description
 
 
-# Trailer 
+## Trailer 
 (this is just a placeholder)
 
 {% include video id="YeJH9QpOf4s" provider="youtube" %}
 
 
-# Screenshots
-{% include gallery caption="gallery caption" %}
+## Credits
 
 
-# Credits
-
-
-# References
+## References
 
 our full list of references can be viewed [here](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
 
