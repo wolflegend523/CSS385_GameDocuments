@@ -29,19 +29,6 @@ gallery:
   - url: /assets/images/placeholderImage6.jpg
     image_path: /assets/images/placeholderImage6.jpg
     title: "Image 6 title"
-feature_row:
-  - image_path: /assets/images/MykytaCat.jpg
-    title: "Mykyta"
-    excerpt: "What Mykyta worked on."
-  - image_path: /assets/images/SkylaCat.jpg
-    title: "Skyla"
-    excerpt: "What Skyla worked on."
-  - image_path: /assets/images/CordeliaCat.jpg
-    title: "Cordelia"
-    excerpt: "What Cordelia worked on."
-  - image_path: /assets/images/SydneeCat.jpg
-    title: "Sydnee"
-    excerpt: "What Sydnee worked on."
 ---
 
 ## Description
@@ -57,12 +44,6 @@ feature_row:
 {% include gallery caption="gallery caption" %}
 
 
-## Credits
-{% include feature_row %}
-
-## References
-
-our full list of references can be viewed [here](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
 
 
 
