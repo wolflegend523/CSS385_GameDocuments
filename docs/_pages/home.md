@@ -35,7 +35,7 @@ feature_row:
     excerpt: "What Mykyta worked on."
   - image_path: /assets/images/SkylaCat.jpg
     title: "Skyla"
-    excerpt: "What Skyla worked on.""
+    excerpt: "What Skyla worked on."
   - image_path: /assets/images/CordeliaCat.jpg
     title: "Cordelia"
     excerpt: "What Cordelia worked on."
