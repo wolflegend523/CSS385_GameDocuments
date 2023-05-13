@@ -1,6 +1,7 @@
 ---
 layout: splash
 author_profile: false
+title: "[Our Game]"
 permalink: /
 excerpt: "placeholder for cool text at the top of the website"
 header:
@@ -25,6 +26,9 @@ gallery:
   - url: /assets/images/placeholderImage5.jpg
     image_path: /assets/images/placeholderImage5.jpg
     title: "Image 5 title"
+  - url: /assets/images/placeholderImage6.jpg
+    image_path: /assets/images/placeholderImage6.jpg
+    title: "Image 6 title"
 ---
 
 ## description:
