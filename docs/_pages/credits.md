@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 title: "About The Team"
-permalink: /credits
+permalink: /credits/
 feature_Mykyta:
   - image_path: /assets/images/MykytaCat.jpg
     title: "Mykyta"
