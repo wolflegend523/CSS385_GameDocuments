@@ -2,8 +2,13 @@
 layout: splash
 author_profile: false
 permalink: /
+excerpt: "placeholder for cool text at the top of the website"
 header:
-  image: /assets/images/placeholderImage1.jpg
+  overlay_image: /assets/images/placeholderImage7.jpg
+  overlay_filter: 0.5
+  actions:
+    - label: "Play Game"
+      url: "https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/"
   
 ---
 
