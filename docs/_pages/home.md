@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/placeholderImage7.jpg
   overlay_filter: 0.5
   actions:
-    - label: "Play Game"
+    - label: "Play Latest Version"
       url: "https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/"
 gallery:
   - url: /assets/images/placeholderImage1.jpg
