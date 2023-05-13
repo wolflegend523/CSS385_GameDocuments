@@ -21,6 +21,8 @@ feature_Sydnee:
     excerpt: "What Sydnee worked on."
 ---
 
+## About The Team
+
 {% include feature_row id="feature_Mykyta" type="left" %}
 
 {% include feature_row id="feature_Skyla" type="right" %}
