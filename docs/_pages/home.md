@@ -2,6 +2,9 @@
 layout: splash
 author_profile: false
 permalink: /
+header:
+  image: /assets/images/placeholderImage1.jpg
+  
 ---
 
 <h3> description: </h3>
