@@ -22,8 +22,8 @@ We used ___ assets from the [Heroic Asset Creature Pack](https://iknowkingrabbit
 
 ## Heroic Overworld Pack by Aleksandr Makarov
 We used ___ assets from the [Heroic Asset Overworld Pack](https://iknowkingrabbit.itch.io/heroic-overworld) by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/) While this pack does cost money, one of our team members received this pack for free a while ago, so we did not spend money on it. 
-- GB-LandTileset
-- IB-LandTileset
+- GrassBiome - GBLandTileset
+- IceBiome - IBLandTileset
 
 ## Heroic Icon Pack by Aleksandr Makarov
 We used ___ assets from the [Heroic Asset Icon Pack](https://iknowkingrabbit.itch.io/heroic-icon-pack) by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/) While this pack does cost money, one of our team members received this pack for free a while ago, so we did not spend money on it. 
