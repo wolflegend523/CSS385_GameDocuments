@@ -34,6 +34,7 @@ feature_Sydnee:
 
 ## References
 
-The character sprites and animations in our game came from assets packs by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/)
+The character sprites and animations in our game came from assets packs by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/) 
+The Website usees the theme [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) by [Michael Rose](https://mademistakes.com/about/)
 
 For the full list of asset attributions view our [references page.](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
