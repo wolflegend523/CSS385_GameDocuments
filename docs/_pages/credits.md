@@ -34,4 +34,6 @@ feature_Sydnee:
 
 ## References
 
-our full list of references can be viewed [here](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
+The character sprites and animations in our game came from assets packs by Aleksandr Makarov.
+
+For the full list of asset attributions view our [references page.](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
