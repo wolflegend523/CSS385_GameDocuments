@@ -34,6 +34,6 @@ feature_Sydnee:
 
 ## References
 
-The character sprites and animations in our game came from assets packs by Aleksandr Makarov.
+The character sprites and animations in our game came from assets packs by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/)
 
 For the full list of asset attributions view our [references page.](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
