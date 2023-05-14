@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-All of the assets used in our game that we did not produce ourselves are documented below. We used ___ assets from ___ packs. 
+All of the assets used in our game that we did not produce ourselves are documented below. We used ___ assets from ___ asset packs. 
 
 ## Heroic Creature Pack by Aleksandr Makarov
 
