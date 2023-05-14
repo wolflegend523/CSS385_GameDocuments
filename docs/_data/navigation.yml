@@ -12,6 +12,7 @@ docs:
   - title: "Development Log"
     url: https://wolflegend523.github.io/CSS385_GameDocuments/devlog/
   - title: "Playtest Reports"
+    url:  https://wolflegend523.github.io/CSS385_GameDocuments/playtests/
     children: 
       - title: "Alpha Playtests"
         url: https://wolflegend523.github.io/CSS385_GameDocuments/alphatests/
