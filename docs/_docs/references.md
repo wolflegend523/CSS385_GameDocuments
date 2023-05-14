@@ -7,7 +7,6 @@ sidebar:
 ---
 
 All of the assets used in our game that we did not produce ourselves are documented below. We used ___ assets from ___ asset packs. All these packs have licenses that allow modification and use of assets in free or commercial projects.
-{: .notice--success}
 
 
 ## Heroic Creature Pack by Aleksandr Makarov
