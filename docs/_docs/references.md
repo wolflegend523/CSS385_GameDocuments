@@ -11,14 +11,14 @@ All of the assets used in our game that we did not produce ourselves are documen
 
 ## Heroic Creature Pack by Aleksandr Makarov
 We used ___ assets from the [Heroic Asset Creature Pack](https://iknowkingrabbit.itch.io/heroic-creature-pack) by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/) While this pack does cost money, one of our team members received this pack for free a while ago, so we did not spend money on it. 
-- deer0
-- deer1
-- griffen0
-- treant0
-- archer1
-- paladin0
-- swordsman0
-- pikeman1
+- deer0 - Icon32x32 & sprite_sheet
+- deer1 - Icon32x32 & sprite_sheet
+- griffen0 - Icon32x32 & sprite_sheet
+- treant0 - Icon32x32 & sprite_sheet
+- archer1 - Icon32x32 & sprite_sheet
+- paladin0 - Icon32x32 & sprite_sheet
+- swordsman0 - Icon32x32 & sprite_sheet
+- pikeman1 - Icon32x32 & sprite_sheet
 
 ## Heroic Overworld Pack by Aleksandr Makarov
 We used ___ assets from the [Heroic Asset Overworld Pack](https://iknowkingrabbit.itch.io/heroic-overworld) by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/) While this pack does cost money, one of our team members received this pack for free a while ago, so we did not spend money on it. 
