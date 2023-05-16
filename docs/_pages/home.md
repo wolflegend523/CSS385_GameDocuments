@@ -9,7 +9,7 @@ header:
   overlay_filter: 0.5
   actions:
     - label: "Play Latest Version"
-      url: "https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/"
+      url: "https://wolflegend523.github.io/CSS385_GameDocuments/BetaBuild/"
 gallery:
   - url: /assets/images/placeholderImage1.jpg
     image_path: /assets/images/placeholderImage1.jpg
