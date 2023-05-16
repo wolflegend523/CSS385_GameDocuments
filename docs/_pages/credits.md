@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: false
-title: "About The Team"
+title: "About The Whiskers & Wonders Team"
 permalink: /credits/
 feature_Mykyta:
   - image_path: /assets/images/MykytaCat.jpg
