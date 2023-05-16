@@ -1,4 +1,4 @@
-# Our Game Name
+# Into The Spring
 
 This repository contains the source code for our game _____. Our game was made using Unity, version 2021.3.21f1. It also contains the pages and assets used for hosting our website. 
 
