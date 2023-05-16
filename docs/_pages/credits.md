@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: false
-title: "About The Whiskers & Wonders Team"
+title: "About The Team"
 permalink: /credits/
 feature_Mykyta:
   - image_path: /assets/images/MykytaCat.jpg
@@ -33,7 +33,7 @@ feature_Sydnee:
     btn_class: "btn--inverse"
 ---
 
-## About The Team
+## About The Whiskers & Wonders Team
 
 {% include feature_row id="feature_Mykyta" type="left" %}
 
