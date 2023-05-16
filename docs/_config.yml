@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "custom" # "default", "air", "aqua", "contrast", "dar
 
 # Site Settings
 locale                   : "en-US"
-title                    : "[Our Game's Name]"
+title                    : "Into The Spring"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "[Our Group Name]"
+name                     : "Whiskers & Wonders"
 description              : "The launch page for our wonderful game."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
