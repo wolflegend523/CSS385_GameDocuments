@@ -29,5 +29,3 @@ We used ___ assets from the [Heroic Asset Overworld Pack](https://iknowkingrabbi
 We used ___ assets from the [Heroic Asset Icon Pack](https://iknowkingrabbit.itch.io/heroic-icon-pack) by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/) While this pack does cost money, one of our team members received this pack for free a while ago, so we did not spend money on it. 
 
 
-## Crosshair Pack by ___________
-
