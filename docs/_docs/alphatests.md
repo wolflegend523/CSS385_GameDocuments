@@ -10,7 +10,7 @@ For the **Alpha** version of our game, we implemented the combat system. We did 
 
 # 5/8/2023 Playtest
 ## Summary
-We conducted a playtest with our classmates on May 8, 2023. This playtest had 18 playtesters and used the in-class google forms sheet to collect feedback.
+We conducted a playtest with our classmates on May 8, 2023. This playtest had 19 playtesters and used the in-class google forms sheet to collect feedback.
 - AVG Fun rating: 4.11
 - AVG Innovation rating: 4.17
 - AVG Technical Challenge rating: 4.67
@@ -44,7 +44,7 @@ Here are some of our main takeaways and plans to implement the feedback we recei
 - Add a tutorial box to explain the turn system and movement/attacking controls
 - Make it clear how the player characters have different traits (e.g., birds can fly) by adding more UI elements
 - Update indicators to make which characters can be moved clear
-- Fix the deal and eagle death bugs
+- Fix the deer and eagle death bugs
 - Consider adding a grid overlay on top of the battle map
 - Consider adding a scene at the beginning to explain the objectives
 
