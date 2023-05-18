@@ -11,9 +11,9 @@ For the **Alpha** version of our game, we implemented the combat system. We did 
 # 5/8/2023 Playtest
 ## Summary
 We conducted a playtest with our classmates on May 8, 2023. This playtest had 19 playtesters and used the in-class google forms sheet to collect feedback.
-- AVG Fun rating: 4.11
-- AVG Innovation rating: 4.17
-- AVG Technical Challenge rating: 4.67
+- AVG Fun rating: 4.11 / 5.0
+- AVG Innovation rating: 4.17 / 5.0
+- AVG Technical Challenge rating: 4.67 / 5.0
 
 ## Analysis
 #### What Players Liked
@@ -37,7 +37,7 @@ We conducted a playtest with our classmates on May 8, 2023. This playtest had 19
 - Once one of the eagle characters died it would break the turn system
 - Our indicator UI elements for which characters can be selected blend into the background
  
-## Conclusions
+# Conclusions
 Here are some of our main takeaways and plans to implement the feedback we received:
 - Add an end turn button so that players do not need to use all their movements to continue
 - Add an undo movement button to allow backing out of a movement
