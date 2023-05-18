@@ -12,9 +12,9 @@ So it was a 1 player game. We still did not have a tutorial or level system in p
 # 5/15/2023 Playtest
 ## Summary
 We conducted a playtest with our classmates on May 15, 2023. This playtests had 19 playtesters and used the in-class google forms sheet to collect feedback.
-- AVG Fun enjoyment rating: 4.22
-- AVG Fun replay rating: 4.05
-- AVG Improvement rating: 4.33
+- AVG Fun enjoyment rating: 4.22 / 5.0
+- AVG Fun replay rating: 4.05 / 5.0
+- AVG Improvement rating: 4.33 / 5.0
 
 ## Analysis
 #### What Players Liked
@@ -40,7 +40,25 @@ We conducted a playtest with our classmates on May 15, 2023. This playtests had 
 - All of our character UI elements say "deer" - the name doesn't change 
 - The archers could not die, just went to negative health and then kept taking turns
  
-## Conclusions
+ 
+# 5/16/2023 - 5/ /2023 Playtest
+## Summary
+
+
+## Analysis
+#### What Players Liked
+
+
+#### What Frustrated/Confused Players
+
+
+
+#### Small Bugs Mentioned
+
+ 
+ 
+ 
+# Conclusions
 Here are some of our main takeaways and plans to implement the feedback we received:
 - Make the end turn button more obvious - probably by adding the phrase "end turn" 
 - Add a tutorial box to explain the turn system and movement/attacking controls
