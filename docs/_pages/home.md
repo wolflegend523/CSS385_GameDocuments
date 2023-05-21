@@ -30,13 +30,13 @@ gallery:
     image_path: /assets/images/placeholderImage6.jpg
     title: "Image 6 title"
 feature_row:
-  - image_path: /assets/images/placeholderImage8.jpg
+  - image_path: /assets/images/AlphaGameImage.jpg
     title: "Alpha Version"
     excerpt: "This is the alpha version of the game."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/"
     btn_label: "Play Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/placeholderImage9.jpg
+  - image_path: /assets/images/BetaGameImage.jpg
     title: "Beta Version"
     excerpt: "This is the beta version of the game."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/BetaBuild/"
