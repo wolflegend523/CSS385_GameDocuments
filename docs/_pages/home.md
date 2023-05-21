@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: false
-title: " "
+title: "Into The Spring"
 permalink: /
 excerpt: "placeholder for cool text at the top of the website"
 header:
