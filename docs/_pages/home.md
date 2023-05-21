@@ -1,11 +1,11 @@
 ---
 layout: splash
 author_profile: false
-title: "Into The Spring"
+title: ""
 permalink: /
 excerpt: "placeholder for cool text at the top of the website"
 header:
-  overlay_image: /assets/images/placeholderImage7.jpg
+  overlay_image: HomeScreenHeader.jpg
   overlay_filter: 0.5
   actions:
     - label: "Play Latest Version"

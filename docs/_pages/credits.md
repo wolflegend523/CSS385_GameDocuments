@@ -3,31 +3,31 @@ layout: splash
 author_profile: false
 title: "About The Team"
 permalink: /credits/
-feature_Mykyta:
+feature_Nikita:
   - image_path: /assets/images/MykytaCat.jpg
-    title: "Mykyta Skiba"
-    excerpt: "What Mykyta worked on."
+    title: "Nikita Skiba"
+    excerpt: "Game Designer - Nikita worked on the turn based system, actions, and enemy AI."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/404/"
     btn_label: "LinkedIn"
     btn_class: "btn--inverse"
 feature_Skyla:
   - image_path: /assets/images/SkylaCat.jpg
     title: "Skyla Tran"
-    excerpt: "What Skyla worked on."
+    excerpt: "Animations Specialist - Skyla worked on the animations and the title/end screens."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/404/"
     btn_label: "LinkedIn"
     btn_class: "btn--inverse"
 feature_Cordelia:
   - image_path: /assets/images/CordeliaCat.jpg
     title: "Cordelia Notbohm"
-    excerpt: "What Cordelia worked on."
+    excerpt: "Web Designer - Cordelia worked on the website, game documentation, and tutorial information"
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/404/"
     btn_label: "LinkedIn"
     btn_class: "btn--inverse"
 feature_Sydnee:
   - image_path: /assets/images/SydneeCat.jpg
     title: "Sydnee Haugen"
-    excerpt: "What Sydnee worked on."
+    excerpt: "Graphic Desiner - Sydnee worked on the map designs"
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/404/"
     btn_label: "LinkedIn"
     btn_class: "btn--inverse"
@@ -35,7 +35,7 @@ feature_Sydnee:
 
 ## About The Whiskers & Wonders Team
 
-{% include feature_row id="feature_Mykyta" type="left" %}
+{% include feature_row id="feature_Nikita" type="left" %}
 
 {% include feature_row id="feature_Skyla" type="right" %}
 
