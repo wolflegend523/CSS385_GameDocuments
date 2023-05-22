@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 title: "Into The Spring"
 permalink: /
-excerpt: "placeholder for cool text at the top of the website"
+excerpt: "Humanity is plaguing Animalkind with an endless winter, it is up to you to defeat them and bring the forest into the spring"
 header:
   overlay_image: /assets/images/HomeScreenHeader.jpg
   overlay_filter: 0.5
@@ -51,7 +51,9 @@ feature_row:
 ---
 
 ## Description
+Our game takes place in the forest, where humans are hunting down all the creatures living here. With the humans comes a cold, bitter winter. It is up to you to help the forest critters to fight off the humans. 
 
+Guide the forest creatures in a turn-based, grid-based, strategy game. Based on games like _____, 
 
 ## Trailer 
 (this is just a placeholder)
