@@ -53,11 +53,11 @@ We conducted a playtest with some friends on May 16, 2023. This playtests had 6 
 
 
 #### What Frustrated/Confused Players
-
+- one player was confused that there was no feedback about whether they won or lost the game
 
 
 #### Small Bugs Mentioned
-
+- no new bugs were found, still just the enemies not dying
  
  
 # Conclusions
@@ -65,8 +65,9 @@ Here are some of our main takeaways and plans to implement the feedback we recei
 - Make the end turn button more obvious - probably by adding the phrase "end turn" 
 - Add a tutorial box to explain the turn system and movement/attacking controls
 - Add a level progression - in the first battle you just have one deer, and then in future battles, you gain more characters 
-- add some sort of feedback, effect, signal, or popup that makes attacking more obvious and feel more satisfying 
-- add some sort of indicator or popup that explains what the enemy AI decides to do
+- Add some sort of feedback, effect, signal, or popup that makes attacking more obvious and feel more satisfying 
+- Add some sort of indicator or popup that explains what the enemy AI decides to do
+- Add a win and lose scene to give more feedback to players
 - Add an undo movement button to allow backing out of a movement
 - Fix the archer death bugs
 - Fix the "deer" name bug
