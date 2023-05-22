@@ -41,9 +41,12 @@ We conducted a playtest with our classmates on May 15, 2023. This playtests had 
 - The archers could not die, just went to negative health and then kept taking turns
  
  
-# 5/16/2023 - 5/ /2023 Playtest
+# 5/16/2023 - 5/20/2023 Playtest
 ## Summary
-
+We conducted a playtest with some friends on May 16, 2023. This playtests had 6 playtesters and our google forms sheet to collect feedback.
+- AVG Fun enjoyment rating: 2.0 / 4.0
+- AVG Fun replay rating: 2.5 / 4.0
+- AVG Innovation rating: 2.17 / 4.0
 
 ## Analysis
 #### What Players Liked
@@ -55,7 +58,6 @@ We conducted a playtest with our classmates on May 15, 2023. This playtests had 
 
 #### Small Bugs Mentioned
 
- 
  
  
 # Conclusions
