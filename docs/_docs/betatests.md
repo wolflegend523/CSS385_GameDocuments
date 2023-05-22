@@ -9,6 +9,7 @@ sidebar:
 For the **Beta** version of our game, we implemented the enemy AI and added many more UI elements to explain the game. 
 So it was a 1 player game. We still did not have a tutorial or level system in place.
 
+&nbsp;  
 # 5/15/2023 Playtest
 ## Summary
 We conducted a playtest with our classmates on May 15, 2023. This playtests had 19 playtesters and used the in-class google forms sheet to collect feedback.
@@ -40,7 +41,8 @@ We conducted a playtest with our classmates on May 15, 2023. This playtests had 
 - All of our character UI elements say "deer" - the name doesn't change 
 - The archers could not die, just went to negative health and then kept taking turns
  
- 
+
+&nbsp;  
 # 5/16/2023 - 5/20/2023 Playtest
 ## Summary
 We conducted a playtest with some friends on May 16, 2023. This playtests had 6 playtesters and our google forms sheet to collect feedback.
