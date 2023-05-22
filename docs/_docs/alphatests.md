@@ -8,6 +8,7 @@ sidebar:
 
 For the **Alpha** version of our game, we implemented the combat system. We did not have enemy AI yet, so it was a 2-player game. Players could move, attack, and kill the opposing characters. 
 
+&nbsp;  
 # 5/8/2023 Playtest
 ## Summary
 We conducted a playtest with our classmates on May 8, 2023. This playtest had 19 playtesters and used the in-class google forms sheet to collect feedback.
@@ -36,7 +37,8 @@ We conducted a playtest with our classmates on May 8, 2023. This playtest had 19
 - Our deer characters did not yet have death animations or mechanics implemented, so they just went to negative health
 - Once one of the eagle characters died it would break the turn system
 - Our indicator UI elements for which characters can be selected blend into the background
- 
+
+&nbsp;  
 # Conclusions
 Here are some of our main takeaways and plans to implement the feedback we received:
 - Add an end turn button so that players do not need to use all their movements to continue
