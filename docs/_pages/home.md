@@ -3,7 +3,7 @@ layout: splash
 author_profile: false
 title: " "
 permalink: /
-excerpt: "Humanity is plaguing Animalkind with an endless winter, it is up to you to defeat them and bring the forest into the spring"
+excerpt: "Humanity is plaguing Animalkind with an endless winter, it is up to you to guide the forest creatures so they can defeat the humans and bring the forest into the spring"
 header:
   overlay_image: /assets/images/HomeScreenHeader.jpg
   overlay_filter: 0.5
