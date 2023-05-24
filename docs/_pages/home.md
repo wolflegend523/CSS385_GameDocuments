@@ -1,7 +1,7 @@
 ---
 layout: splash
 author_profile: false
-title: "Into The Spring"
+title: " "
 permalink: /
 excerpt: "Humanity is plaguing Animalkind with an endless winter, it is up to you to defeat them and bring the forest into the spring"
 header:
