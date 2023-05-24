@@ -11,5 +11,3 @@ sidebar:
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://wolflegend523.github.io/CSS385_GameDocuments/assets/pdf/CSS385_PostmortemPresentation.pdf](https://wolflegend523.github.io/CSS385_GameDocuments/assets/pdf/CSS385_DevelopmentLog.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-
-CSS385_PostmortemPresentation.pdf
