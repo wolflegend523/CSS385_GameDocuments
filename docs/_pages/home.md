@@ -53,7 +53,7 @@ feature_row:
     btn_class: "btn--inverse"
   - image_path: /assets/images/FinalGameImage2.jpg
     title: "Final Version"
-    excerpt: "A refined single-player game with tutorial information and four levels"
+    excerpt: "A refined single-player game with tutorial information and four levels."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/FinalBuild/"
     btn_label: "Play Now"
     btn_class: "btn--inverse"
@@ -62,7 +62,10 @@ feature_row:
 ## Description
 Our game takes place in the forest, where humans are hunting down all the creatures living here. With the humans comes a cold, bitter winter. It is up to you to help the forest critters to fight off the humans. 
 
-Guide the forest creatures in a turn-based, grid-based, strategy game based on games like Into the Breach and Guardians of Gridvale. With an art style partially inspired by the board game root, this game is bound to charm you.
+Guide the forest creatures in a turn-based, strategy game where characters have a limited number of movement and action points to use each turn. The gameplay takes place on a grid-based battlefield, where players must strategically plan and execute their moves to outmaneuver the Humans and protect the forest. Our game offers four different character types, each with unique abilities like ranged attack to strike from afar, armor to reduce damage, and flying to move over obstacles and enemies. 
+
+Based on games like Into the Breach and Guardians of Gridvale, with an art style partially inspired by the board game root, this game is bound to charm you.
+
 
 ## Trailer 
 {% include video id="dyawa_FJNMk" provider="youtube" %}
@@ -70,6 +73,7 @@ Guide the forest creatures in a turn-based, grid-based, strategy game based on g
 
 ## Screenshots
 {% include gallery caption="Selected Scenes and Features from Into The Spring" %}
+
 
 ## Game Versions
 {% include feature_row %}
