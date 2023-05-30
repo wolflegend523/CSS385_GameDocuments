@@ -47,7 +47,7 @@ feature_Sydnee:
 ## References
 
 The character sprites and animations in our game came from assets packs by [Aleksandr Makarov.](https://iknowkingrabbit.itch.io/) 
-The sounds in our game are from a sound pack by [Gamemaster Audio](https://www.gamemasteraudio.com/about-us/)
+The sounds in our game are from a sound pack by [Gamemaster Audio.](https://www.gamemasteraudio.com/about-us/)
 The Website uses the theme [Minimal Mistakes](https://mademistakes.com/work/jekyll-themes/minimal-mistakes/) by [Michael Rose.](https://mademistakes.com/about/)
 
 For the full list of asset attributions view our [references page.](https://wolflegend523.github.io/CSS385_GameDocuments/references/) 
