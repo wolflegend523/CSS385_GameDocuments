@@ -65,3 +65,8 @@ Here are some of our main takeaways and plans to implement the feedback we recei
 Here are some elements that we will not have time to implement, but would add to future extensions of the game:
 - Move the enemy AI to the left side of the screen to make it more clear that they are not a playable character and it is not their turn
 - add more actions like a defend action, to add more strategy to the game
+
+
+
+&nbsp;  
+the raw results of the google forms document can be found [here.](https://docs.google.com/spreadsheets/d/1j6m5TQvm0KblXe3o7wGeTp_Ivj0Wv7WpBHxaITdI-jA/edit?usp=sharing)
