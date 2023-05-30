@@ -77,6 +77,16 @@ The game is currently available to play in WebBuild format
 {% include gallery caption="Selected Scenes and Features from Into The Spring" %}
 
 
+## Positive Reviews
+- "I love the fauna, and the animations and artwork are really well done"
+- "the animation and art is very nice, the algorithm used is also very impressive"
+- "The concept of the game is really fun. The pathfinding is well made. The animations and feel are good"
+- "The idea of the game is good. The artwork is nice. The movement system is well made. Attacking is fun. The stragety component is good"
+- "The variance in characters and resulting strategies was fun"
+- "Game art looks great and appealing, movement is easy and intuitive"
+- "Movement of the characters and the enemies is well done. The UI looks good too"
+- "Great map, animations, and game mechanics!"
+
 ## Game Versions
 {% include feature_row %}
 
