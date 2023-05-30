@@ -7,7 +7,7 @@ sidebar:
 ---
 
 For the **Beta** version of our game, we implemented the enemy AI and added many more UI elements to explain the game. 
-So it was a 1 player game. We still did not have a tutorial or level system in place.
+So it was a single-player game. We still did not have a tutorial or level system in place.
 
 &nbsp;  
 # 5/15/2023 Playtest
@@ -33,7 +33,7 @@ We conducted a playtest with our classmates on May 15, 2023. This playtests had 
 - Many players felt it was hard to create strategies 
 - Many players were confused about how to attack or when there were getting attacked
 - Some players did not notice the UI hover elements that showed information
-- some players were confused about when the AI was skipping a turn vs attacking
+- Some players were confused about when the AI was skipping a turn vs attacking
 - Some players were confused about the game’s objectives
 
 
@@ -51,16 +51,20 @@ We conducted a playtest with some friends on May 16, 2023. This playtests had 6 
 - AVG Innovation rating: 2.17 / 4.0
 
 ## Analysis
-#### What Players Liked
-
 
 #### What Frustrated/Confused Players
+- many players were confused about the objective of the game was
+- many players were frustrated by the lack of tutorial information
+- some players were confused about what the difference was between the different characters
 - one player was confused that there was no feedback about whether they won or lost the game
-
+- one player mentioned that clicking on a character to see how much damage you did feels unnatural
+- one player mentioned that the UI elements got in the way and made it hard to move characters to certain areas of the screen 
 
 #### Small Bugs Mentioned
-- no new bugs were found, still just the enemies not dying
- 
+- The shield UI element does not show the shield information 
+
+#### Player Sugestions
+- Included an option to show the enemy character's range and movement on the board like the player character's
 
 &nbsp;  
 # Conclusions
@@ -71,6 +75,7 @@ Here are some of our main takeaways and plans to implement the feedback we recei
 - Add some sort of feedback, effect, signal, or popup that makes attacking more obvious and feel more satisfying 
 - Add some sort of indicator or popup that explains what the enemy AI decides to do
 - Add win-and-lose scenes to give more feedback to players
+- Move the UI elements to the side to so it does not hover over movable tiles
 - Add an undo movement button to allow backing out of a movement
 - Fix the archer death bugs
 - Fix the "deer" name bug
