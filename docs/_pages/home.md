@@ -11,24 +11,33 @@ header:
     - label: "Play Latest Version"
       url: "https://wolflegend523.github.io/CSS385_GameDocuments/BetaBuild/"
 gallery:
-  - url: /assets/images/placeholderImage1.jpg
-    image_path: /assets/images/placeholderImage1.jpg
-    title: "Image 1 title"
-  - url: /assets/images/placeholderImage2.jpg
-    image_path: /assets/images/placeholderImage2.jpg
-    title: "Image 2 title"
-  - url: /assets/images/placeholderImage3.jpg
-    image_path: /assets/images/placeholderImage3.jpg
-    title: "Image 3 title"
-  - url: /assets/images/placeholderImage4.jpg
-    image_path: /assets/images/placeholderImage4.jpg
-    title: "Image 4 title"
-  - url: /assets/images/placeholderImage5.jpg
-    image_path: /assets/images/placeholderImage5.jpg
-    title: "Image 5 title"
-  - url: /assets/images/placeholderImage6.jpg
-    image_path: /assets/images/placeholderImage6.jpg
-    title: "Image 6 title"
+  - url: /assets/images/Level1Start.jpg
+    image_path: /assets/images/Level1Start.jpg
+    title: "The Screen At The Start Of Level 1"
+  - url: /assets/images/Level1Move.jpg
+    image_path: /assets/images/Level1Move.jpg
+    title: "Moving A Character"
+  - url: /assets/images/Level2Fly.jpg
+    image_path: /assets/images/Level2Fly.jpg
+    title: "Using A Flying Character"
+  - url: /assets/images/Level2FlyOverCharacter.jpg
+    image_path: /assets/images/Level2FlyOverCharacter.jpg
+    title: "Flying Over Enemey Characters"
+  - url: /assets/images/Level3Range.jpg
+    image_path: /assets/images/Level3Range.jpg
+    title: "Using A Character With Range"
+  - url: /assets/images/Level3Range.jpg
+    image_path: /assets/images/Level3Range.jpg
+    title: "Characters Lying Dead On The Field"
+  - url: /assets/images/Level4Move.jpg
+    image_path: /assets/images/Level4Move.jpg
+    title: "Moving A Character With Armor"
+  - url: /assets/images/Level4Attack.jpg
+    image_path: /assets/images/Level4Attack.jpg
+    title: "Attacking Without Range"
+  - url: /assets/images/Level4Range.jpg
+    image_path: /assets/images/Level4Range.jpg
+    title: "Attacking With Range"
 feature_row:
   - image_path: /assets/images/AlphaGameImage.jpg
     title: "Alpha Version"
@@ -42,7 +51,7 @@ feature_row:
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/BetaBuild/"
     btn_label: "Play Now"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/placeholderImage10.jpg
+  - image_path: /assets/images/FinalGameImage2.jpg
     title: "Final Version"
     excerpt: "This is the final version of the game."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/FinalBuild/"
@@ -56,12 +65,11 @@ Our game takes place in the forest, where humans are hunting down all the creatu
 Guide the forest creatures in a turn-based, grid-based, strategy game. Based on games like _____, 
 
 ## Trailer 
-(this is just a placeholder)
 {% include video id="dyawa_FJNMk" provider="youtube" %}
 
 
 ## Screenshots
-{% include gallery caption="gallery caption" %}
+{% include gallery caption="Selected Scenes and Features from Into The Spring" %}
 
 ## Game Versions
 {% include feature_row %}
