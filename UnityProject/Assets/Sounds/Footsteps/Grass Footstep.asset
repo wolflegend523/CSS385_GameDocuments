@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f129c30f17be8d340b47ce420c7f8294, type: 3}
+  m_Name: Grass Footstep
+  m_EditorClassIdentifier: 
+  clips:
+  - {fileID: 8300000, guid: 5642e6bbaa588cf4b90aef510b64f6bd, type: 3}
+  - {fileID: 8300000, guid: 96160555fe0b31f49acddc8bd6a4727c, type: 3}
+  - {fileID: 8300000, guid: c9184520932d0b646a075fcf20eb5bee, type: 3}
+  - {fileID: 8300000, guid: f97137d37123cfd458bc4c5503e17688, type: 3}
+  - {fileID: 8300000, guid: b91a857d7ac2bed4cb684b09d713d29a, type: 3}
+  - {fileID: 8300000, guid: b2bcfe6043dc36f4eb86196c2d4c704f, type: 3}
+  - {fileID: 8300000, guid: 0fc8da8f55931eb42b71f5a570249a1c, type: 3}
+  - {fileID: 8300000, guid: 9aa714988ae189f4da07901f3b964957, type: 3}
+  - {fileID: 8300000, guid: abafd4687b643954aaf9dbca2870703c, type: 3}
+  - {fileID: 8300000, guid: c6452c63ccb4bf0478dc29be422a4ee8, type: 3}
+  volume: 1
+  pitch: 1
+  pitchVariance: 0
