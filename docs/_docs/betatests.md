@@ -75,8 +75,13 @@ Here are some of our main takeaways and plans to implement the feedback we recei
 - Add some sort of feedback, effect, signal, or popup that makes attacking more obvious and feel more satisfying 
 - Add some sort of indicator or popup that explains what the enemy AI decides to do
 - Add win-and-lose scenes to give more feedback to players
-- Move the UI elements to the side to so it does not hover over movable tiles
+- Move the UI elements to the left side so it does not hover over movable tiles
 - Add an undo movement button to allow backing out of a movement
 - Fix the archer death bugs
 - Fix the "deer" name bug
 - Consider adding a scene at the beginning to explain the objectives (taking back the forest) 
+
+
+
+&nbsp;  
+the raw results of the google forms document can be found [here.](https://docs.google.com/spreadsheets/d/1j6m5TQvm0KblXe3o7wGeTp_Ivj0Wv7WpBHxaITdI-jA/edit?usp=sharing)
