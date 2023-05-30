@@ -13,16 +13,29 @@ For the **Final** version of our game, we implemented the tutorial system, updat
 ## Summary
 We conducted a playtest with some friends on May 16, 2023. This playtests had __ playtesters and our google forms sheet to collect feedback.
 
+- AVG Fun enjoyment rating:  / 4.0
+- AVG Fun replay rating:  / 4.0
+- AVG Innovation rating:  / 4.0
+
 
 ## Analysis
 
 #### What Frustrated/Confused Players
-
-
+- Some players were frustrated that they could accidentally move off-screen and then couldn't click on the characters again
+- Some players were confused about whether their attacks were working, or how much damage they were doing
+- Some players confused the Action points for a health bar 
+- One player was confused that when they attacked an enemy the enemy info came up, and wondered if it was still their turn
+- one player felt it was unclear when a character died, and suggested adding an overlay of some sort to indicate they can no longer be used
+- One player felt the tutorial level was too easy because they could attack and then move out of range 
+- One player felt the tutorial box had too much information
 
 #### Small Bugs Mentioned
-- 
- 
+- Lack of contrast between the title of the tutorial box and the information in the tutorial box
+- a spelling mistake in the tutorial boxes: "read" instead of "red"
+- The Characters were misaligned from the grid - reducing the number of tiles players can move too
+
+#### Player Sugestions 
+- One player suggested adding WASD controls would be cool
 
 &nbsp;  
 # 5/31/2023 Playtest
@@ -44,6 +57,11 @@ We conducted a playtest with our classmates on May 31, 2023. This playtests had 
 &nbsp;  
 # Conclusions
 Here are some of our main takeaways and plans to implement the feedback we received:
-
+- Fix the alignment issue, and spelling mistakes with the tutorial box
+- Fix the UI so you can't move off screen
+- Consider bringing back the damage information that would pop up after an attack 
+- Consider adding an overlay over the dead characters to make it clear they cannot be used
 
 Here are some elements that we will not have time to implement, but would add to future extensions of the game:
+- Move the enemy AI to the left side of the screen to make it more clear that they are not a playable character and it is not their turn
+- add more actions like a defend action, to add more strategy to the game
