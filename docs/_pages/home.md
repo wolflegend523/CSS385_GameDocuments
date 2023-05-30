@@ -26,8 +26,8 @@ gallery:
   - url: /assets/images/Level3Range.jpg
     image_path: /assets/images/Level3Range.jpg
     title: "Using A Character With Range"
-  - url: /assets/images/Level3Range.jpg
-    image_path: /assets/images/Level3Range.jpg
+  - url: /assets/images/Level3Death.jpg
+    image_path: /assets/images/Level3Death.jpg
     title: "Characters Lying Dead On The Field"
   - url: /assets/images/Level4Move.jpg
     image_path: /assets/images/Level4Move.jpg
@@ -41,19 +41,19 @@ gallery:
 feature_row:
   - image_path: /assets/images/AlphaGameImage.jpg
     title: "Alpha Version"
-    excerpt: "This is the alpha version of the game."
+    excerpt: "A two-player game with only two character types."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/AlphaBuild/"
     btn_label: "Play Now"
     btn_class: "btn--inverse"
   - image_path: /assets/images/BetaGameImage.jpg
     title: "Beta Version"
-    excerpt: "This is the beta version of the game."
+    excerpt: "A single-player game with enemy AI and four character types."
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/BetaBuild/"
     btn_label: "Play Now"
     btn_class: "btn--inverse"
   - image_path: /assets/images/FinalGameImage2.jpg
     title: "Final Version"
-    excerpt: "This is the final version of the game."
+    excerpt: "A refined single-player game with tutorial information and four levels"
     url: "https://wolflegend523.github.io/CSS385_GameDocuments/FinalBuild/"
     btn_label: "Play Now"
     btn_class: "btn--inverse"
@@ -62,7 +62,7 @@ feature_row:
 ## Description
 Our game takes place in the forest, where humans are hunting down all the creatures living here. With the humans comes a cold, bitter winter. It is up to you to help the forest critters to fight off the humans. 
 
-Guide the forest creatures in a turn-based, grid-based, strategy game. Based on games like _____, 
+Guide the forest creatures in a turn-based, grid-based, strategy game based on games like Into the Breach and Guardians of Gridvale. With an art style partially inspired by the board game root, this game is bound to charm you.
 
 ## Trailer 
 {% include video id="dyawa_FJNMk" provider="youtube" %}
