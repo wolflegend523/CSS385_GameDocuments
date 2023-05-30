@@ -57,7 +57,7 @@ Guide the forest creatures in a turn-based, grid-based, strategy game. Based on 
 
 ## Trailer 
 (this is just a placeholder)
-{% include video id="YeJH9QpOf4s" provider="youtube" %}
+{% include video id="dyawa_FJNMk" provider="youtube" %}
 
 
 ## Screenshots
