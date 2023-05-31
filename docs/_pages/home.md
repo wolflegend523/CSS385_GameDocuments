@@ -62,11 +62,11 @@ feature_row:
 ## Description
 Our game takes place in the forest, where humans are hunting down all the creatures living here. With the humans comes a cold, bitter winter. It is up to you to help the forest critters to fight off the humans. 
 
-Guide the forest creatures in a turn-based, strategy game where characters have a limited number of movement and action points to use each turn. The gameplay takes place on a grid-based battlefield, where players must strategically plan and execute their moves to outmaneuver the Humans and protect the forest. Our game offers four different character types, each with unique abilities like a ranged attack to strike from afar, armor to reduce damage, and flying to move over obstacles and enemies. 
+Guide the forest creatures in a turn-based, strategy RPG where characters have a limited number of movement and action points to use each turn. The gameplay takes place on a grid-based battlefield, where players must strategically plan and execute their moves to outmaneuver the Humans and protect the forest. Our game offers four different character types, each with unique abilities like a ranged attack to strike from afar, armor to reduce damage, and flying to move over obstacles and enemies. 
 
-Based on games like Into the Breach and Guardians of Gridvale, with an art style partially inspired by the board game root, this game is bound to charm you.
+Based on games like Into the Breach, XCOM, and Guardians of Gridvale, with an art style/theme inspired by the board game Root, this game is bound to charm you.
 
-The game is currently available to play in WebBuild format
+Into the Spring is currently available to play in WebBuild format. click "Play Latest Version" to play our game. 
 
 
 ## Trailer 
