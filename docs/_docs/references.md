@@ -6,7 +6,7 @@ sidebar:
   nav: "docs"
 ---
 
-All of the assets used in our game that we did not produce ourselves are documented below. We used 38 assets from 4 asset packs. All these packs have licenses that allow modification and use of assets in free or commercial projects.
+All of the assets used in our game that we did not produce ourselves are documented below. We used 39 assets from 5 asset packs. All these packs have licenses that allow modification and use of assets in free or commercial projects.
 
 
 ## Heroic Creature Pack by Aleksandr Makarov
@@ -38,3 +38,6 @@ We used 18 assets from the [Pro Sound Collection](https://www.gamemasteraudio.co
 - Clock - clock_ticking
 - Footsteps - footstep_grass_walk 01-10
 - Sword - sword 01-07
+
+## Kenny Fonts Pack
+We used the [Kenny Fonts Pack](https://www.kenney.nl/assets/kenney-fonts) by [Kenny.](https://www.kenney.nl/)
