@@ -66,7 +66,7 @@ Guide the forest creatures in a turn-based, strategy RPG where characters have a
 
 Based on games like Into the Breach, XCOM, and Guardians of Gridvale, with an art style/theme inspired by the board game Root, this game is bound to charm you.
 
-Into the Spring is currently available to play in WebBuild format. click "Play Latest Version" to play our game. 
+Into the Spring is currently available to play in WebBuild format. Click "Play Latest Version" to play our game. 
 
 
 ## Trailer 
