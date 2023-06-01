@@ -40,8 +40,12 @@ We conducted a playtest with some friends on May 16, 2023. This playtests had __
 &nbsp;  
 # 5/31/2023 Playtest
 ## Summary
-We conducted a playtest with our classmates on May 31, 2023. This playtests had __ playtesters and used the in-class Google forms sheet to collect feedback.
-
+We conducted a playtest with our classmates on May 31, 2023. This playtests had 18 playtesters and used the in-class Google Forms sheet to collect feedback.
+- AVG Fun enjoyment rating:  4.35 / 5.0
+- AVG Fun replay rating:  4.24 / 5.0
+- AVG Innovation rating:  4.59 / 5.0
+- AVG Technical challenge rating: 4.76 / 5.0
+- AVG Production quality rating: 4.76 / 5.0
 
 ## Analysis
 #### What Players Liked
@@ -51,7 +55,7 @@ We conducted a playtest with our classmates on May 31, 2023. This playtests had 
 
 
 #### Small Bugs Mentioned
-
+- the enemy AI will sometimes think that a dead player is still a player, and so will keep moving toward them even though they are dead
  
 
 &nbsp;  
@@ -59,12 +63,14 @@ We conducted a playtest with our classmates on May 31, 2023. This playtests had 
 Here are some of our main takeaways and plans to implement the feedback we received:
 - Fix the alignment issue, and spelling mistakes with the tutorial box
 - Fix the UI so you can't move off screen
+- fix the enemies moving to dead characters bug 
 - Consider bringing back the damage information that would pop up after an attack 
 - Consider adding an overlay over the dead characters to make it clear they cannot be used
 
 Here are some elements that we will not have time to implement, but would add to future extensions of the game:
 - Move the enemy AI to the left side of the screen to make it more clear that they are not a playable character and it is not their turn
 - add more actions like a defend action, to add more strategy to the game
+- add a boss to make the end more satisfying
 
 
 
