@@ -85,6 +85,9 @@ public class CharacterInfoDisplay : MonoBehaviour
     void HideDisplay()
     {
         display.SetActive(false);
+
+        actionPoints.ClearDisplay();
+        
     }
 
     // Update is called once per frame

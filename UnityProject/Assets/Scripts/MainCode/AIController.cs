@@ -28,13 +28,18 @@ public class AIController : Controller
         {
             if (!selected.IsActionActive())
             {
+                selected.CalculateAI();
                 AITurn bestTurn = selected.GetBestTurn();
 
                 if (bestTurn != null)
                 {
                     Debug.Log("Performing Turn: " + bestTurn.action.GetType());
+
+                    if (bestTurn is AITurnWorld)
+                    {
+                        Debug.Log("at " + (bestTurn as AITurnWorld).position);
+                    }
                     bestTurn.Perform();
-                    selected.CalculateAI();
                 }
                 else
                 {

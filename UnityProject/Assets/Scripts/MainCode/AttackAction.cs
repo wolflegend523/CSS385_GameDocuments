@@ -245,6 +245,7 @@ public class AttackAction : Action
 
         if (!IsValidTarget(attackedCharacter.transform.position))
         {
+            Debug.Log("fail");
             return;
         }
 

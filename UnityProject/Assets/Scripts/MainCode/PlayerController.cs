@@ -11,7 +11,6 @@ public class PlayerController : Controller
     Character infoTarget;
 
     [SerializeField] GameObject selectObject;
-    [SerializeField] GameObject infoObject;
 
     public override bool IsDone()
     {
@@ -77,14 +76,23 @@ public class PlayerController : Controller
 
     public void SelectInfo()
     {
-        if (Input.GetMouseButtonDown(0))
+        Character hovered = GameUtils.GetComponentAt<Character>(GameUtils.GetMousePosition());
+
+        if (hovered != null)
         {
-            Character clicked = GameUtils.GetComponentAt<Character>(GameUtils.GetMousePosition());
-            if (clicked != null)
-            {
-                infoTarget = clicked;
-            }
+            infoTarget = hovered;
+            return;
         }
+
+        /*
+        if (selected != null)
+        {
+            infoTarget = selected;
+            return;
+        }*/
+
+        infoTarget = null;
+
 
     }
 
@@ -95,12 +103,7 @@ public class PlayerController : Controller
 
         if (infoTarget != null)
         {
-            infoObject.SetActive(true);
-            infoObject.transform.position = infoTarget.transform.position;
             characterInfo.SetCharacter(infoTarget);
-        } else
-        {
-            infoObject.SetActive(false);
         }
 
         if (selected != null)

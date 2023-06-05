@@ -60,6 +60,11 @@ public class CharacterStats : MonoBehaviour
         health += amount;
     }
 
+    public bool isDead()
+    {
+        return (health <= 0);
+    }
+
     public void TakeDamage(int amount)
     {
         while (armor != 0 && amount != 0)
@@ -69,6 +74,11 @@ public class CharacterStats : MonoBehaviour
         }
 
         health += -amount;
+
+        if (health < 0)
+        {
+            health = 0;
+        }
     }
 
     public int GetActionPoints()

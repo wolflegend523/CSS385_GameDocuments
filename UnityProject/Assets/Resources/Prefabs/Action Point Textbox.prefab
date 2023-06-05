@@ -69,8 +69,8 @@ MonoBehaviour:
   m_text: Action points determine how many actions a character can take each round.
     Most characters only have one action point to use.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a6812ad029713a74693711f90db907bc, type: 2}
+  m_sharedMaterial: {fileID: -4536764069119946410, guid: a6812ad029713a74693711f90db907bc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -363,8 +363,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Movement points determine how far a character can move each round.
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: a6812ad029713a74693711f90db907bc, type: 2}
+  m_sharedMaterial: {fileID: -4536764069119946410, guid: a6812ad029713a74693711f90db907bc, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []

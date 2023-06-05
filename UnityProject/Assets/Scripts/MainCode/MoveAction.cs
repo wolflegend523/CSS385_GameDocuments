@@ -64,9 +64,9 @@ public class MoveAction : Action
         turn.position = node.position;
 
         
-        float enemyWeight = 15 * attackAction.GetValidTargets(node.position).Length;
+        //float enemyWeight = 15 * attackAction.GetValidTargets(node.position).Length;
 
-        turn.weight = enemyWeight + GetComponent<AILogic>().CalculateClosestEnemyWeight(node.position);
+        turn.weight = GetComponent<AILogic>().CalculateClosestEnemyWeight(node.position);
 
 
         return turn;

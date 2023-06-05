@@ -14,16 +14,19 @@ public class AILogic : MonoBehaviour
         {
             if (character.GetController() != enemy.GetController())
             {
-                float distance = GameUtils.GetManhattanDistance(position, enemy.transform.position);
-
-                if (closestDistance == -1 || distance < closestDistance)
+                if (!enemy.GetStats().isDead())
                 {
-                    closestDistance = distance;
+                    float distance = GameUtils.GetManhattanDistance(position, enemy.transform.position);
+
+                    if (closestDistance == -1 || distance < closestDistance)
+                    {
+                        closestDistance = distance;
+                    }
                 }
             }
         }
 
-        if (closestDistance == 0)
+        if (closestDistance == -1)
         {
             return 0;
         }

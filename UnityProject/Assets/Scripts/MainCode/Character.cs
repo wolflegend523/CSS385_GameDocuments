@@ -133,7 +133,7 @@ public class Character : MonoBehaviour
 
         foreach (AITurn turn in possibleTurns)
         {
-            Debug.Log("Considered Turn: " + turn.action + " cost:" + turn.weight);
+            //Debug.Log("Considered Turn: " + turn.action.GetType() + " cost:" + turn.weight);
             if (bestTurn == null || bestTurn.weight < turn.weight)
             {
                 bestTurn = turn;

@@ -220,7 +220,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 1
+  m_PresetInfoIsWorld: 0
 --- !u!114 &2056914310501663765
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -250,8 +250,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fef86fe9dc69cf64bb61aa09d65bd7c6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  altColor: {r: 0, g: 0, b: 0, a: 0}
+  spriteRenderer: {fileID: 0}
   costText: {fileID: 2056914309475353426}
-  arrow: {fileID: 9018835783148286433}
 --- !u!1 &9018835783148286433
 GameObject:
   m_ObjectHideFlags: 0

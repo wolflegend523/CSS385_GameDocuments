@@ -5,7 +5,6 @@ using UnityEngine;
 public abstract class Controller : MonoBehaviour
 {
     [SerializeField] protected Character[] controlledCharacters;
-    protected bool active;
 
     protected bool IsControlled(Character character)
     {
@@ -38,6 +37,19 @@ public abstract class Controller : MonoBehaviour
             character.OnStartRound();
             character.GetStats().Refresh();
         }
+    }
+
+    //returns true if all characters are dead
+    public bool AreAllCharactersDead()
+    {
+        foreach (Character character in controlledCharacters)
+        {
+            if (!character.GetStats().isDead())
+            {
+                return false;
+            }
+        }
+        return true;
     }
 
 

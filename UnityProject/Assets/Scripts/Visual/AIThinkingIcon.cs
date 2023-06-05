@@ -16,12 +16,16 @@ public class AIThinkingIcon : MonoBehaviour
     float startTime;
 
     bool active;
+
+    Canvas canvas;
+
     public void StartIcon()
     {
         active = true;
         icon.SetActive(true);
         icon.transform.localRotation = Quaternion.Euler(startRotation);
         startTime = Time.time;
+
     }
 
     public bool IsActive()
@@ -37,6 +41,8 @@ public class AIThinkingIcon : MonoBehaviour
             float factor = (Time.time - startTime) / delayTime;
             icon.transform.localRotation = Quaternion.Euler(Vector3.Lerp(startRotation, targetRotation, factor));
 
+            icon.transform.position = Input.mousePosition;
+
             if (factor >= 1)
             {
                 EndIcon();
@@ -46,6 +52,7 @@ public class AIThinkingIcon : MonoBehaviour
     }
     void EndIcon()
     {
+
         active = false;
         icon.SetActive(false);
     }
@@ -53,6 +60,8 @@ public class AIThinkingIcon : MonoBehaviour
     private void Start()
     {
         EndIcon();
+
+        canvas = GetComponent<Canvas>();
     }
 
 }

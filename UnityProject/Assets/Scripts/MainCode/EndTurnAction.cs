@@ -69,9 +69,13 @@ public class EndTurnAction : Action
 
         result[0].action = this;
 
-        result[0].weight = 15 * GetComponent<AttackAction>().GetValidTargets(transform.position).Length;
-        result[0].weight += GetComponent<AILogic>().CalculateClosestEnemyWeight(transform.position);
-        result[0].weight += 0.001f;
+        //result[0].weight = 15 * GetComponent<AttackAction>().GetValidTargets(transform.position).Length;
+        result[0].weight = GetComponent<AILogic>().CalculateClosestEnemyWeight(gameObject.transform.position);
+
+        Debug.Log("END TURN WEIGHT AAA : " + result[0].weight + " AT " + transform.position);
+
+        result[0].weight += 0.01f;
+
 
         return result;
     }
